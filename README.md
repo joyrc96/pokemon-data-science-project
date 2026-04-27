@@ -15,6 +15,6 @@ This is a simple project where I experiment with different EDA and ML methods, p
 ## Authors
 
 * coding by Joy RC
-  * [@joyrc96]([https://github.com/joyrc96])
+  * [@joyrc96](https://github.com/joyrc96)
 * data from Sanjana Chaudhari on Kaggle
-  * [@sanjanchaudhari]([https://www.kaggle.com/sanjanchaudhari])
+  * [@sanjanchaudhari](https://www.kaggle.com/sanjanchaudhari)
