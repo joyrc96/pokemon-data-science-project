@@ -18,3 +18,5 @@ This is a simple project where I experiment with different EDA and ML methods, p
   * [@joyrc96](https://github.com/joyrc96)
 * data from Sanjana Chaudhari on Kaggle
   * [@sanjanchaudhari](https://www.kaggle.com/sanjanchaudhari)
+* second dataset from Aaliyah Khan on Kaggle
+  * [@patelris](https://www.kaggle.com/patelris)
